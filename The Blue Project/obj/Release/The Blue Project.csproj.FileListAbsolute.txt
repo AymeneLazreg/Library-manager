@@ -1,0 +1,13 @@
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The_Blue_Project.Main.resources
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The_Blue_Project.Properties.Resources.resources
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The Blue Project.csproj.GenerateResource.cache
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The Blue Project.csproj.CoreCompileInputs.cache
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\bin\Release\The Blue Project.exe.config
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\bin\Release\The Blue Project.exe
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\bin\Release\The Blue Project.pdb
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The_Blue_Project.List.resources
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The_Blue_Project.registerForm.resources
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The Blue Project.exe
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The Blue Project.pdb
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The Blue Project.csprojAssemblyReference.cache
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Release\The_Blue_Project.work.resources
