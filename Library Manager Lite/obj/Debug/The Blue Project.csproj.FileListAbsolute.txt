@@ -1,0 +1,27 @@
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\bin\Debug\The Blue Project.exe.config
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\bin\Debug\The Blue Project.exe
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\bin\Debug\The Blue Project.pdb
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The_Blue_Project.Main.resources
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The_Blue_Project.Properties.Resources.resources
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The Blue Project.csproj.GenerateResource.cache
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The Blue Project.csproj.CoreCompileInputs.cache
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The Blue Project.exe
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The Blue Project.pdb
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The Blue Project.csprojAssemblyReference.cache
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The_Blue_Project.registerForm.resources
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The_Blue_Project.List.resources
+C:\Users\Aymen\source\repos\The Blue Project\The Blue Project\obj\Debug\The_Blue_Project.work.resources
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\bin\Debug\The Blue Project.exe.config
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\bin\Debug\The Blue Project.exe
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\bin\Debug\The Blue Project.pdb
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The Blue Project.csproj.AssemblyReference.cache
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The Blue Project.exe.config
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The_Blue_Project.List.resources
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The_Blue_Project.Main.resources
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The_Blue_Project.Properties.Resources.resources
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The_Blue_Project.registerForm.resources
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The_Blue_Project.work.resources
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The Blue Project.csproj.GenerateResource.cache
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The Blue Project.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The Blue Project.exe
+C:\Users\happy\Desktop\Library-manager-main\The Blue Project\obj\Debug\The Blue Project.pdb

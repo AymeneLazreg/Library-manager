@@ -1,0 +1,14 @@
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\bin\Release\Library Manager Lite.exe.config
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\bin\Release\Library Manager Lite.exe
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\bin\Release\Library Manager Lite.pdb
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library Manager Lite.csproj.AssemblyReference.cache
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library_Manager_Lite.UserList.resources
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library_Manager_Lite.Main.resources
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library_Manager_Lite.Properties.Resources.resources
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library_Manager_Lite.registerForm.resources
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library_Manager_Lite.work.resources
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library Manager Lite.csproj.GenerateResource.cache
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library Manager Lite.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library Manager Lite.exe
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library Manager Lite.pdb
+C:\Users\happy\Desktop\Library-manager-main\Library Manager Lite\obj\Release\Library Manager Lite.exe.config
