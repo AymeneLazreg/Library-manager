@@ -1,9 +1,3 @@
-Parfait ! Avec tous ces fichiers `.cs` et ton designer, je te propose un **README.md complet** pour ton projet **Library Manager Lite** qui explique l’ensemble des fonctionnalités, la structure et le fonctionnement.
-
-Voici le fichier prêt à copier-coller :
-
----
-
 # 📚 Library Manager Lite
 
 **Library Manager Lite** est une application Windows Forms (C# / .NET Framework) permettant de gérer des utilisateurs, leurs informations personnelles, ainsi que les enregistrements liés aux activités ou objets associés à chaque utilisateur.
@@ -113,16 +107,13 @@ Voici le fichier prêt à copier-coller :
 ## ⚠️ Bugs connus et limitations
 
 * Les fichiers temporaires (`test.txt`) doivent exister pour certaines opérations.
-* Le Designer Visual Studio peut générer des erreurs si un contrôle porte le nom `Name` (conflit avec la propriété `Form.Name`).
-
-  * **Solution** : Renommer le TextBox `Name` en `NameBox`.
 * Gestion minimale des exceptions sur les fichiers manquants ou en lecture seule.
 
 ---
 
 ## 🔮 Améliorations possibles
 
-* Migration vers un format JSON ou XML pour plus de flexibilité.
+* Migration vers un format JSON ou XML pour plus de flexibilité, ou integration d'une BDD.
 * Ajout d’un système de recherche ou de filtres.
 * Modernisation de l’interface (WPF, WinUI).
 * Sécurisation des fichiers (permissions, hash, validation).
@@ -131,10 +122,6 @@ Voici le fichier prêt à copier-coller :
 
 ## 🧑‍💻 Auteur
 
-Développé dans le cadre d’un projet de gestion simplifiée d’utilisateurs et de leurs activités.
-
----
-
-Si tu veux, je peux te faire **une version visuelle améliorée du README avec captures d’écran et diagramme du flux de données** pour que ça ait un style plus professionnel.
-
-Veux‑tu que je fasse ça ?
+Aymene LAZREG
+Développé dans le cadre d’un projet personnel.
+IA utilisé UNIQUEMENT pour resolution de certaines erreurs mineures et redaction du README.
