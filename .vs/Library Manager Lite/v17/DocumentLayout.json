@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\happy\\Desktop\\Library-manager-main\\",
+  "WorkspaceRootPath": "C:\\Users\\happy\\Desktop\\Library-manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager-main\\library manager lite\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager\\library manager lite\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager-main\\library manager lite\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager\\library manager lite\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager\\library manager lite\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager\\library manager lite\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager\\library manager lite\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager\\library manager lite\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager-main\\library manager lite\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager\\library manager lite\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|c:\\users\\happy\\desktop\\library-manager\\library manager lite\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB2CA52-C8E7-4E65-B899-0139DDC36ED5}|Library Manager Lite\\Library Manager Lite.csproj|solutionrelative:library manager lite\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +42,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserList.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager-main\\Library Manager Lite\\UserList.cs",
-              "RelativeDocumentMoniker": "Library Manager Lite\\UserList.cs",
-              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager-main\\Library Manager Lite\\UserList.cs [Design]",
-              "RelativeToolTip": "Library Manager Lite\\UserList.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\Main.cs",
+              "RelativeDocumentMoniker": "Library Manager Lite\\Main.cs",
+              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\Main.cs",
+              "RelativeToolTip": "Library Manager Lite\\Main.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:09:55.044Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "registerForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager-main\\Library Manager Lite\\registerForm.cs",
-              "RelativeDocumentMoniker": "Library Manager Lite\\registerForm.cs",
-              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager-main\\Library Manager Lite\\registerForm.cs [Design]",
-              "RelativeToolTip": "Library Manager Lite\\registerForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:09:52.93Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-24T13:18:25.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "registerForm.cs",
+              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\registerForm.cs",
+              "RelativeDocumentMoniker": "Library Manager Lite\\registerForm.cs",
+              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\registerForm.cs",
+              "RelativeToolTip": "Library Manager Lite\\registerForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:18:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\UserList.cs",
+              "RelativeDocumentMoniker": "Library Manager Lite\\UserList.cs",
+              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\UserList.cs",
+              "RelativeToolTip": "Library Manager Lite\\UserList.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAkwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:18:19.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "work.cs",
+              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\work.cs",
+              "RelativeDocumentMoniker": "Library Manager Lite\\work.cs",
+              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\work.cs",
+              "RelativeToolTip": "Library Manager Lite\\work.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAQwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:18:16.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "work.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\work.cs",
+              "RelativeDocumentMoniker": "Library Manager Lite\\work.cs",
+              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\work.cs [Design]",
+              "RelativeToolTip": "Library Manager Lite\\work.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:18:15.098Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\UserList.cs",
+              "RelativeDocumentMoniker": "Library Manager Lite\\UserList.cs",
+              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\UserList.cs [Design]",
+              "RelativeToolTip": "Library Manager Lite\\UserList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:18:13.761Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "registerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\registerForm.cs",
+              "RelativeDocumentMoniker": "Library Manager Lite\\registerForm.cs",
+              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\registerForm.cs [Design]",
+              "RelativeToolTip": "Library Manager Lite\\registerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:18:12.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Main.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager-main\\Library Manager Lite\\Main.cs",
+              "DocumentMoniker": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\Main.cs",
               "RelativeDocumentMoniker": "Library Manager Lite\\Main.cs",
-              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager-main\\Library Manager Lite\\Main.cs [Design]",
+              "ToolTip": "C:\\Users\\happy\\Desktop\\Library-manager\\Library Manager Lite\\Main.cs [Design]",
               "RelativeToolTip": "Library Manager Lite\\Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:08:07.736Z",
+              "WhenOpened": "2025-11-24T13:18:10.487Z",
               "EditorCaption": " [Design]"
             }
           ]
